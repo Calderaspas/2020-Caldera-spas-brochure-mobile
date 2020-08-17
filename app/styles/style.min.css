@@ -594,7 +594,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     filter: drop-shadow(1px 1px 15px #0006);
     padding-top: 47px;
     padding-bottom: 47px;
-    touch-action: pinch-zoom;
+
 }
 
 .lg-outer .lg-video .lg-object {
