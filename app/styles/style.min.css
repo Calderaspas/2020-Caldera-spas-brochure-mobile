@@ -768,7 +768,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     position: relative;
     bottom: 0;
     padding: 5px 25px;
-    margin: 0 3px;
+    margin: 0 15px;
     border-radius: 50px;
     border: 2px solid #f57b56;
 }
