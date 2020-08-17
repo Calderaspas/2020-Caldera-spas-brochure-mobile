@@ -6,7 +6,14 @@
     font-style: normal
 }
 
-* {
+*::after,
+p,
+span,
+span::after,
+a::after,
+div,
+div::after,
+a {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
