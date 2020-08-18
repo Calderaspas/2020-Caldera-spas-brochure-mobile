@@ -667,7 +667,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     left: 0
 }
 
-.lg-toolbar .dnld-pdf-icon:after {
+.lg-toolbar .pdf:after {
     content: "\e0f2";
     position: relative;
     top: 5px;
@@ -966,7 +966,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .lg-dropdown-active .lg-thumb-outer,
 .lg-dropdown-active .lg-thumb,
 .lg-dropdown-active .lg-actions,
-.lg-dropdown-active .dnld-pdf-icon {
+.lg-dropdown-active .pdf {
     display: none;
 }
 
