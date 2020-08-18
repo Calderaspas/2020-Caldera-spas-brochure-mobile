@@ -581,7 +581,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .lg-dropdown-text {
     font-family: magdelin, prelobook, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
     font-weight: 200;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .lg-outer .lg-video-cont {
@@ -811,14 +811,14 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
         font-size: 14px;
         font-family: magdelin, prelobook, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
         position: relative;
-        bottom: 0;
-        padding: 3px 7px;
+        bottom: 2px;
+        padding: 5px 10px;
         border-radius: 50px;
         border: 2px solid #f57b56;
     }
 
     #lg-zoom-in::after {
-        margin:0 5px 0 5px;
+        margin:0 0 0 10px;
     }
 }
 
