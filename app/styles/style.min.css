@@ -46,10 +46,6 @@ svg {
     -moz-osx-font-smoothing: grayscale
 }
 
-.hide-arrows {
-    display: none!important;
-}
-
 .lg-actions .lg-next,
 .lg-actions .lg-prev {
     background-color: rgba(255, 255, 255, .7);
@@ -418,16 +414,6 @@ svg {
     -o-transition: translate3d linear 333ms
 }
 
-.lg-hide-items .lg-toolbar {
-    opacity: 0;
-    -webkit-transform: translate3d(0, -10px, 0);
-    transform: translate3d(0, -10px, 0);
-    transition: translate3d linear 333ms;
-    -webkit-transition: translate3d linear 333ms;
-    -moz-transition: translate3d linear 333ms;
-    -ms-transition: translate3d linear 333ms;
-    -o-transition: translate3d linear 333ms
-}
 
 body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-object {
     -webkit-transform: scale3d(.5, .5, .5);
@@ -801,8 +787,9 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
         border-radius: 50px;
         border: 2px solid #f57b56;
     }
+
     #lg-zoom-in::after {
-        margin:0 5px 0 10px;
+        margin: 0 5px 0 10px;
     }
 }
 
@@ -820,7 +807,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     }
 
     #lg-zoom-in::after {
-        margin:0 0 0 10px;
+        margin: 0 0 0 10px;
     }
 }
 
@@ -976,7 +963,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     display: none;
 }
 
-.lg-outer .lg-dropdown > li > a {
+.lg-outer .lg-dropdown>li>a {
     color: #fff;
     padding: 4px 12px;
     font-family: magdelin, prelobook, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
@@ -1033,7 +1020,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .lg-outer #lg-share {
     position: relative;
     top: -2px;
-    font-size: 30px!important;
+    font-size: 30px !important;
     max-width: 40px !important;
     padding: 8px 0 0 0;
 }
