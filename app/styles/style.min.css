@@ -392,26 +392,30 @@ svg {
     -o-transition: 333ms
 }
 
-.lg-hide-items .lg-prev {
-    opacity: 0;
-    -webkit-transform: translate3d(-10px, 0, 0);
-    transform: translate3d(-10px, 0, 0);
-    transition: translate3d linear 333ms;
-    -webkit-transition: translate3d linear 333ms;
-    -moz-transition: translate3d linear 333ms;
-    -ms-transition: translate3d linear 333ms;
-    -o-transition: translate3d linear 333ms
-}
+@media (max-device-width: 1024px) {
+    .lg-hide-items .lg-prev {
+        opacity: 0;
+        -webkit-transform: translate3d(-10px, 0, 0);
+        transform: translate3d(-10px, 0, 0);
+        transition: translate3d linear 333ms;
+        -webkit-transition: translate3d linear 333ms;
+        -moz-transition: translate3d linear 333ms;
+        -ms-transition: translate3d linear 333ms;
+        -o-transition: translate3d linear 333ms
+    }
 
-.lg-hide-items .lg-next {
-    opacity: 0;
-    -webkit-transform: translate3d(10px, 0, 0);
-    transform: translate3d(10px, 0, 0);
-    transition: translate3d linear 333ms;
-    -webkit-transition: translate3d linear 333ms;
-    -moz-transition: translate3d linear 333ms;
-    -ms-transition: translate3d linear 333ms;
-    -o-transition: translate3d linear 333ms
+
+
+    .lg-hide-items .lg-next {
+        opacity: 0;
+        -webkit-transform: translate3d(10px, 0, 0);
+        transform: translate3d(10px, 0, 0);
+        transition: translate3d linear 333ms;
+        -webkit-transition: translate3d linear 333ms;
+        -moz-transition: translate3d linear 333ms;
+        -ms-transition: ranslate3d linear 333ms;
+        -o-transition: translate3d linear 333ms
+    }
 }
 
 
@@ -1108,7 +1112,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-item {
-    background: url(https://www.calderaspas.com/wp-content/uploads/2020/08/loading.svg) no-repeat scroll center center transparent;
+    background: url(./app/image-assets/loading.svg) no-repeat scroll center center transparent;
     display: none !important
 }
 
