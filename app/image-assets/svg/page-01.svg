@@ -5326,6 +5326,8 @@ EvR/KkonS4nZsTEvjL+hKs/ebJTP5+BvQtbg+ifS7bEtFl61s0Q9X8ixY24EvkX0QRYpln9IrEEY
 	<g>
 
 		<text transform="matrix(1 0 0 1 202.8198 123.2798)" filter="url(#textShadow)" fill="#FFFFFF"
-			font-family="'Magdelin-Light'" font-size="16px" letter-spacing="9">COME TO LIFE®</text>
+			font-family="'Magdelin-Light'" font-size="16px" letter-spacing="9">COME TO LIFE</text>
+					<text transform="matrix(1 0 0 1 408 119)" filter="url(#textShadow)" fill="#FFFFFF"
+			font-family="'Magdelin-Light'" font-size="10px" letter-spacing="9">®</text>
 	</g>
 </svg>
