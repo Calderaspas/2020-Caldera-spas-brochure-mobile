@@ -2806,7 +2806,9 @@ QvU5lx1jGMYxjol7Tyvdz6CBCExVQvbeGR7u3omtxcrtwv8A/9k=" transform="matrix(0.5023 0
 		<text transform="matrix(1 0 0 1 72 180)" fill="#FFFFFF" font-family="'Magdelin-Bold'" font-size="50px">The
 			Daily Ritual.</text>
 		<text transform="matrix(1 0 0 1 72 220)" fill="#FFFFFF" font-family="'Magdelin-Light'" font-size="16px">When
-			you imerse yourself in a Caldera® Spa you</text>
+			you imerse yourself in a Caldera</text>
+					<text transform="matrix(1 0 0 1 316 215)" fill="#FFFFFF" font-family="'Magdelin-Light'" font-size="10px">®</text>
+					<text transform="matrix(1 0 0 1 325 220)" fill="#FFFFFF" font-family="'Magdelin-Light'" font-size="16px">Spa you</text>
 		<text transform="matrix(1 0 0 1 72 248)" fill="#FFFFFF" font-family="'Magdelin-Light'"
 			font-size="16px">immediately feel the world melt Away. Emerge feeling</text>
 		<text transform="matrix(1 0 0 1 72 276)" fill="#FFFFFF" font-family="'Magdelin-Light'"
@@ -2818,6 +2820,10 @@ QvU5lx1jGMYxjol7Tyvdz6CBCExVQvbeGR7u3omtxcrtwv8A/9k=" transform="matrix(0.5023 0
 		<text transform="matrix(1 0 0 1 72 360)" fill="#FFFFFF" font-family="'Magdelin-Light'" font-size="16px">life's
 			next adventure.</text>
 		<text transform="matrix(1 0 0 1 72 410)" fill="#FFFFFF" font-family="'Magdelin-Light'" font-size="14px"
-			letter-spacing="1">COME TO CALDERA. COME TO LIFE®.</text>
+			letter-spacing="1">COME TO CALDERA. COME TO LIFE</text>
+					<text transform="matrix(1 0 0 1 317 405)" fill="#FFFFFF" font-family="'Magdelin-Light'" font-size="10px"
+			letter-spacing="1">®</text>
+					<text transform="matrix(1 0 0 1 322 410)" fill="#FFFFFF" font-family="'Magdelin-Light'" font-size="14px"
+			letter-spacing="1">.</text>
 	</g>
 </svg>
