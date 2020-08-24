@@ -1,7 +1,7 @@
 <svg id="page" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 612 792">
 	<filter id="textShadow" x="-1" y="-1" width="200px" height="200px">
 		<feOffset result="offOut" in="SourceAlpha" dx="2" dy="2" />
-		<feGaussianBlur result="blurOut" in="offOut" stdDeviation="8" />
+		<feGaussianBlur result="blurOut" in="offOut" stdDeviation="12" />
 		<feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
 	</filter>
 	<font horiz-adv-x="1000">
@@ -88,7 +88,7 @@
 		<glyph unicode="t" horiz-adv-x="363"
 			d="M314,121C295,109 273,103 255,103C230,103 214,117 214,142l0,173l114,0l0,105l-114,0l0,160l-122,-22l0,-138l-69,0l0,-105l69,0l0,-199C92,36 142,-12 222,-12C273,-12 327,5 354,27z" />
 	</font>
-
+<rect fill="#FFFFFF" width="612" height="792"/>
 	<g id="image-clipped">
 		<g>
 			<defs>
