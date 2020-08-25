@@ -1203,7 +1203,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 .lg-outer .lg-item {
     background: url(https://www.calderaspas.com/wp-content/uploads/2020/08/loading.svg) no-repeat scroll center center transparent;
-    display: none !important
+    display: none 
 }
 
 .lg-outer.lg-css3 .lg-current,
