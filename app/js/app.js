@@ -63,160 +63,160 @@
               enableDrag: !0,
               dynamic: !0,
               dynamicEl: [{
-                  thumb: "app/image-assets/thumbnails/thumb-01.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-01.jpg",
                   src: "./app/image-assets/svg/page-01.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-02.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-02.jpg",
                   src: "./app/image-assets/svg/page-02.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-03.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-03.jpg",
                   src: "./app/image-assets/svg/page-03.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-04.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-04.jpg",
                   src: "./app/image-assets/svg/page-04.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-05.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-05.jpg",
                   src: "./app/image-assets/svg/page-05.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-06.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-06.jpg",
                   src: "./app/image-assets/svg/page-06.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-07.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-07.jpg",
                   src: "./app/image-assets/svg/page-07.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-08.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-08.jpg",
                   src: "./app/image-assets/svg/page-08.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-09.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-09.jpg",
                   src: "./app/image-assets/svg/page-09.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-10.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-10.jpg",
                   src: "./app/image-assets/svg/page-10.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-11.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-11.jpg",
                   src: "./app/image-assets/svg/page-11.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-12.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-12.jpg",
                   src: "./app/image-assets/svg/page-12.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-13.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-13.jpg",
                   src: "./app/image-assets/svg/page-13.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-14.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-14.jpg",
                   src: "./app/image-assets/svg/page-14.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-15.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-15.jpg",
                   src: "./app/image-assets/svg/page-15.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-16.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-16.jpg",
                   src: "./app/image-assets/svg/page-16.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-17.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-17.jpg",
                   src: "./app/image-assets/svg/page-17.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-18.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-18.jpg",
                   src: "./app/image-assets/svg/page-18.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-19.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-19.jpg",
                   src: "./app/image-assets/svg/page-19.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-20.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-20.jpg",
                   src: "./app/image-assets/svg/page-20.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-21.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-21.jpg",
                   src: "./app/image-assets/svg/page-21.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-22.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-22.jpg",
                   src: "./app/image-assets/svg/page-22.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-23.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-23.jpg",
                   src: "./app/image-assets/svg/page-23.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-24.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-24.jpg",
                   src: "./app/image-assets/svg/page-24.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-25.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-25.jpg",
                   src: "./app/image-assets/svg/page-25.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-26.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-26.jpg",
                   src: "./app/image-assets/svg/page-26.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-27.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-27.jpg",
                   src: "./app/image-assets/svg/page-27.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-28.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-28.jpg",
                   src: "./app/image-assets/svg/page-28.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-29.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-29.jpg",
                   src: "./app/image-assets/svg/page-29.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-30.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-30.jpg",
                   src: "./app/image-assets/svg/page-30.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-31.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-31.jpg",
                   src: "./app/image-assets/svg/page-31.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-32.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-32.jpg",
                   src: "./app/image-assets/svg/page-32.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-33.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-33.jpg",
                   src: "./app/image-assets/svg/page-33.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-34.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-34.jpg",
                   src: "./app/image-assets/svg/page-34.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-35.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-35.jpg",
                   src: "./app/image-assets/svg/page-35.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-36.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-36.jpg",
                   src: "./app/image-assets/svg/page-36.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-37.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-37.jpg",
                   src: "./app/image-assets/svg/page-37.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-38.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-38.jpg",
                   src: "./app/image-assets/svg/page-38.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-39.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-39.jpg",
                   src: "./app/image-assets/svg/page-39.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-40.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-40.jpg",
                   src: "./app/image-assets/svg/page-40.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-41.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-41.jpg",
                   src: "./app/image-assets/svg/page-41.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-42.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-42.jpg",
                   src: "./app/image-assets/svg/page-42.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-43.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-43.jpg",
                   src: "./app/image-assets/svg/page-43.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-44.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-44.jpg",
                   src: "./app/image-assets/svg/page-44.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-45.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-45.jpg",
                   src: "./app/image-assets/svg/page-45.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-46.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-46.jpg",
                   src: "./app/image-assets/svg/page-46.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-47.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-47.jpg",
                   src: "./app/image-assets/svg/page-47.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-48.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-48.jpg",
                   src: "./app/image-assets/svg/page-48.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-49.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-49.jpg",
                   src: "./app/image-assets/svg/page-49.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-50.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-50.jpg",
                   src: "./app/image-assets/svg/page-50.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-51.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-51.jpg",
                   src: "./app/image-assets/svg/page-51.svg"
               }, {
-                  thumb: "app/image-assets/thumbnails/thumb-52.jpg",
+                  thumb: "./app/image-assets/thumbnails/thumb-52.jpg",
                   src: "./app/image-assets/svg/page-52.svg"
               }],
               hash: !0,
@@ -272,46 +272,49 @@
                   r.css("transition-timing-function", this.s.cssEasing), r.css("transition-duration", this.s.speed + "ms")
               }
               setTimeout((function() {
-                  e(".caldera-link").attr({
-                      href: "https://calderaspas.com",
-                      target: "_blank",
-                      title: "Link to CalderaSpas.com",
-                      alt: "Link to CalderaSpas.com"
-                  })
-              })), setTimeout((function() {
-                  e("#getBrochure").attr("type", "button"), e("#getBrochure").on("click tap", (function() {
-                      axios({
-                          url: "./caldera-spas-2020-brochure.pdf",
-                          method: "GET",
-                          responseType: "blob"
-                      }).then((function(response) {
-                          var FxiOS = navigator.userAgent.match("FxiOS"),
-                              CriOS = navigator.userAgent.match("CriOS"),
-                              OpiOS = navigator.userAgent.match("OpiOS"),
-                              EdgiOS = navigator.userAgent.match("EdgiOS");
-                          if (FxiOS == !0) {
-                              window.open("./caldera-spas-2020-brochure.pdf")
-                              } else if (CriOS == !0) {
-                                  window.open("./caldera-spas-2020-brochure.pdf")
-                               }  else if (OpiOS == !0) {
-                                   window.open("./caldera-spas-2020-brochure.pdf");
-                               } else if (EdgiOS == !0) {
-                                   window.open("./caldera-spas-2020-brochure.pdf");
-                              } else {
-                              var url = window.URL.createObjectURL(new Blob([response.data], {
-                                      type: "application/pdf"
-                                  })),
-                                  link = document.createElement("a");
-                              link.href = url, link.target = "_blank", link.setAttribute("download", "Caldera Spas Brochure 2020"), document.body.appendChild(link), link.click(), link.tap(), setTimeout((function() {
-                                  document.body.removeChild(link), window.URL.revokeObjectURL(URL)
-                              }), 100)
-                          }
-                      }), (function(error) {
-                          var date = new Date(2018, 11, 24, 10, 33);
-                          console.log(error + date)
-                      }))
-                  }))
-              })), setTimeout((function() {
+                e(".caldera-link").attr({
+                    href: "https://calderaspas.com",
+                    target: "_blank",
+                    title: "Link to CalderaSpas.com",
+                    alt: "Link to CalderaSpas.com"
+                })
+            })), setTimeout((function() {
+                e("#getBrochure").attr("type", "button"), e("#getBrochure").on("click", (function() {
+                    axios({
+                        async: !1,
+                        defer: !0,
+                        url: "./caldera-spas-2020-brochure.pdf",
+                        method: "GET",
+                        responseType: "blob"
+                    }).then((function(response) {
+                        var FxiOS = navigator.userAgent.match("FxiOS"),
+                            CriOS = navigator.userAgent.match("CriOS"),
+                            OpiOS = navigator.userAgent.match("OpiOS"),
+                            EdgiOS = navigator.userAgent.match("EdgiOS");
+                        if (FxiOS == !0) {
+                            window.open("./caldera-spas-2020-brochure.pdf"), 100
+                            } else if (CriOS == !0) {
+                                window.open("./caldera-spas-2020-brochure.pdf")
+                             }  else if (OpiOS == !0) {
+                                 window.open("./caldera-spas-2020-brochure.pdf");
+                             } else if (EdgiOS == !0) {
+                                 window.open("./caldera-spas-2020-brochure.pdf");
+                            } else {
+                            var url = window.URL.createObjectURL(new Blob([response.data], {
+                                    type: "application/pdf"
+                                })),
+                                link = document.createElement("a");
+                            link.href = url, link.target = "_blank", 
+                            link.setAttribute("download", "Caldera Spas Brochure 2020"), 
+                            document.body.appendChild(link), 
+                            link.click(), 
+                              setTimeout((function() {
+                                document.body.removeChild(link), window.URL.revokeObjectURL(URL)
+                            }), 100)
+                        }
+                    }))
+                }))
+            })), setTimeout((function() {
                   e(".lg-backdrop").addClass("in")
               })), setTimeout((function() {
                   l.$outer.addClass("lg-visible")
