@@ -288,11 +288,8 @@
                         responseType: "blob"
                     }).then((function (response) {
                         var iosShift = /CriOS|FxiOS|OpiOS|EdgiOS/.test(navigator.userAgent) && !window.MSStream;
-                        var fxIos = /FxiOS/.test(navigator.userAgent) && !window.MSStream;
                         if (iosShift) {
                             window.open("./caldera-spas-2020-brochure.pdf"), 100
-                        } else if (fxIos){
-                            window.open("./caldera-spas-2020-brochure.pdf"), 300
                         } else {
                             var url = window.URL.createObjectURL(new Blob([response.data], {
                                     type: "application/pdf"
